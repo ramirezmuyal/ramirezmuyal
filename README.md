@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramirezmuyal
 - 👀 I’m interested in soccer
-- 🌱 I’m currently learning golf
-- 💞️ I’m looking to collaborate on Blockchain technology
+- 🌱 I’m currently learning golf, python, dart, flutter
+- 💞️ I’m looking to collaborate on Blockchain technology and Generative AI.
 - 📫 How to reach me, find me.
 
 <!---
